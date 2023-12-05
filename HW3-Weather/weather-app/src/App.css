@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background: #1fd7a8;
+  height: 100vh;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #bafaec;
+
+  height: 35vh;
+  font-size: 1.1rem;
+}
+
+.text-input {
+  width: 80%;
+  height: 2rem;
+  margin-top: 1rem;
+  border-radius: 5px;
+  transition: 0.5s;
+  border: 3px solid #ccc;
+  font-size: 1.25rem;
+}
+
+.text-color {
+  color: #fff;
+}
+
+.title-size {
+  font-size: 3rem;
+}
